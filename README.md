@@ -1,5 +1,5 @@
 # Two-layer checkbox project
 
-## Package
-  - React
-  - Formik
+Developed with Formik Package based on React Framework.
+
+Website: https://enikq.csb.app/
