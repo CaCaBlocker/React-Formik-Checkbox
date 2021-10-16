@@ -1,2 +1,5 @@
-# React-Formik-Checkbox
-Created with CodeSandbox
+# Two-layer checkbox project
+
+## Package
+  - React
+  - Formik
